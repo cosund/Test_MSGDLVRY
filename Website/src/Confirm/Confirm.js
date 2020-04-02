@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./Confirm.css";
 import Message from "../Message/Message";
+import modelInstance from "../data/DisplayModel";
 
 class Confirm extends Component {
   constructor(props) {
