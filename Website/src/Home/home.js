@@ -19,7 +19,7 @@ class Home extends Component {
         <img alt="pic" src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.15752-9/82016103_474697166522483_8931529490127912960_n.png?_nc_cat=103&_nc_ohc=mR3u3X27U60AQncefPz6-5C5krXMCBhRqwTTWZD4HRdAX1mhw9-DZDkFA&_nc_ht=scontent-arn2-1.xx&oh=e9d2ff7ae0e583b3c96694c04447b849&oe=5E9873E3" className = "bild4"></img>
       </div>
       <div className ="divbtn">
-        <button className="newPage" onClick={this.newPage}>Submit message</button>
+        <button className="newPage" onClick={this.newPage}>Write message</button>
       </div>
       <div className="picDiv">
         <img alt="pic" src="https://images.unsplash.com/photo-1555421689-491a97ff2040?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&dl=austin-distel-Imc-IoZDMXc-unsplash.jpg" className = "bild marginRight"></img>
