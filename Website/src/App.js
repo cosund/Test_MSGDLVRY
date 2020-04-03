@@ -12,10 +12,6 @@ import Contact from "./Contact/contact";
 export class App extends Component {
   constructor(props) {
     super(props);
-    this.state = {
-      title: "MSG DLVRY",
-      username:null,
-    };
   }
 
   render() {
