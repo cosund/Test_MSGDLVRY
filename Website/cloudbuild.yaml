@@ -13,6 +13,6 @@ args: ['run', 'test:unit']
 args: ['run', 'build']
 
 #deploy
-- name: 'gcr.io/$PROJECT_ID/firebase'
+- name: 'gcr.io/msg-dlb/firebase'
 args: ['deploy']
 
