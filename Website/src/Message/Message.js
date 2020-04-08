@@ -11,7 +11,6 @@ class Message extends Component {
   newPage(){
     window.location.replace('confirm');
   }
-
   render() {
     return (
       <div>
