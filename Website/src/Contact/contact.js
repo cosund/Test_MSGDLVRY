@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./contact.css";
+import zei from "../images/zei.jpeg"
 
 class Contact extends Component {
   render() {
@@ -28,7 +29,7 @@ class Contact extends Component {
             <p className="contact-title10"> Email: cosu@kth.se</p>
           </div>
           <div className="ZA">
-            <img alt="Zeineb" src={ require('../images/zei.jpeg')} className="bildlj"></img>
+            <img alt="Zeineb" src={zei} className="bildlj"></img>
             <p className="contact-title11">Zeineb Amri</p>
             <p className="contact-title12"> Email: zeineba@kth.se</p>
           </div>
